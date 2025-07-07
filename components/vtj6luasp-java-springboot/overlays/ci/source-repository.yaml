@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vtj6luasp-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vtj6luasp-java-springboot
